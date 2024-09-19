@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem vindos ao meu perfil 🖤
 
-<!--
-**ptr7sk/ptr7sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é pietro 
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me sedenvolvendo na linguagem Javacript
+- Utilizo esse espaço para minha organiação e compatilhameto dos meus projeto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você poe entrar em contato comigo 📬
+
+  waleska.narciso@escola.pr.gov.br
+
+  @ptr_7sk
+
+  ![](https://media1.tenor.com/m/PU0m56hQRmMAAAAC/artygcf-jungkook-heart.gif)
