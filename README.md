@@ -3,8 +3,8 @@
 Meu nome é pietro 
 
 - Estou estudando na [alura](https://www.alura.com.br)
-- Estou me sedenvolvendo na linguagem Javacript
-- Utilizo esse espaço para minha organiação e compatilhameto dos meus projeto
+- Estou me desenvolvendo na linguagem Javacript
+- Utilizo esse espaço para minha organização e compartilhameto dos meus projetos
 
   ### Você poe entrar em contato comigo 📬
 
